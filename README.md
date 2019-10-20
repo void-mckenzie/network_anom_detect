@@ -1,5 +1,2 @@
 # anom_detect
-okay so basically fuck off
-dddd
-k cool
-h
+AutoEncoder assissted anomaly detection on ALOI Dataset
