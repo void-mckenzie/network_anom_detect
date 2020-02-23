@@ -1,2 +1,2 @@
-# anom_detect
-AutoEncoder assissted anomaly detection on ALOI Dataset
+# Network Intrusion Detection using AutoEncoders
+AutoEncoder assissted anomaly detection on KDD+ Dataset
