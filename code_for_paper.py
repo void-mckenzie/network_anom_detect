@@ -23,8 +23,7 @@ from keras.utils.data_utils import get_file
 #%matplotlib inline
 
 
-plt.boxplot(label_encoder.fit_transform(training_df['Class']))
-plt.show()
+
 
 # Downloading training and test sets
 try:
